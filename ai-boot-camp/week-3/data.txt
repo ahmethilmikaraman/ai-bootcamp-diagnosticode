@@ -1,0 +1,4 @@
+bir veri eklendi
+bir veri daha eklendi
+toplamda üç veri başarıyla eklendi
+veri 4
